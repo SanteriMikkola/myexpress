@@ -1,4 +1,4 @@
 # myexpress
 
-* app.js - Hello world
+* application.js - Hello world
 * server.js - Basic routing
